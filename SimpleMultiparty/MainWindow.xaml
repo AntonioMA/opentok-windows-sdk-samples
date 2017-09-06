@@ -1,10 +1,10 @@
-﻿<Window
+﻿<Window x:Class="SimpleMultiparty.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:SimpleMultiparty"
-        xmlns:OpenTok="clr-namespace:OpenTok;assembly=WPFVideoRenderer" x:Class="SimpleMultiparty.MainWindow"
+        xmlns:OpenTok="clr-namespace:OpenTok;assembly=WPFVideoRenderer"
         mc:Ignorable="d"
         Title="Simple Multiparty" Height="350" Width="525" MinWidth="320" MinHeight="240">
   <Grid>
